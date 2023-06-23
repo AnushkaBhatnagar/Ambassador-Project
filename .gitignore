@@ -2,10 +2,10 @@
 
 
 #Python Ignored Directories
-/backend/*.cfg
-/backend/Lib
-/backend/Scripts/
-/backend/Include
+*.cfg
+Lib
+Scripts/
+Include
 
 # React Ignored directories
 /website/node_modules
