@@ -2,6 +2,7 @@
 
 
 #Python Ignored Directories
+/backend/__pycache__/
 /backend/*.cfg
 /backend/Lib
 /backend/Scripts/
